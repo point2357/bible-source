@@ -27,6 +27,12 @@
 
 ---
 
-## English: Privacy Policy
+## 🇺🇸 English: Privacy Policy
 BibleEdu does not collect, transmit, or store any personal identifiable information. All user-created data (notes, verse chains, bookmarks, and highlights) are stored solely on your local device. Camera and photo library permissions are used exclusively for on-device and transient optical character recognition (OCR) of Bible scripture references. No tracking or third-party advertising services are used.
-For any inquiries: cornchoco432@naver.com
+Contact: cornchoco432@naver.com
+
+---
+
+## 🇯🇵 日本語: プライバシーポリシー
+「聖書エデュ (BibleEdu)」は、ユーザーの個人情報を収集、保存、または第三者と共有することはありません。作成された黙想メモ、ハイライト、聖句チェーンなどのデータはすべてユーザーの端末内（ローカルストレージ）にのみ安全に保存されます。カメラおよび写真ライブラリへのアクセス権限は、メモや週報の写真から聖句を認識（AI/OCR）する機能にのみ使用され、外部サーバーに保存されることはありません。
+お問い合わせ: cornchoco432@naver.com
